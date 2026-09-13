@@ -15,7 +15,8 @@ Repositori ini berisi seluruh kodingan dan dokumentasi tugas praktikum mata kuli
 
 | Pertemuan | Topik / Tugas | Folder | Status |
 |:---:|---|:---:|:---:|
-| 02 | Program Pengelolaan Data Nilai Siswa | `src/Laprak2` | Selesai |
+| 02 | Program Uji Coba Aplikasi NetBeans | [`Laprak1`](.src/Laprak1) | Selesai |
+| 02 | Program Pengelolaan Data Nilai Siswa | [`Laprak2`](.src/Laprak2) | Selesai |
 
 ---
 
