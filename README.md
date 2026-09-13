@@ -24,4 +24,4 @@ Repositori ini berisi seluruh kodingan dan dokumentasi tugas praktikum mata kuli
 
 1. Buka aplikasi **NetBeans IDE**.
 2. Open Project dan arahkan ke folder `PraktikumPBO`.
-3. Jalankan berkas utama (`main.java`) yang ada di dalam package setiap package
+3. Jalankan berkas utama (`main.java`) yang ada di dalam setiap package.
