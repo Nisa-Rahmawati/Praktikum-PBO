@@ -69,12 +69,12 @@ Jumlah jenis barang: 2
 
 Barang ke-1
 Nama barang: Sabun
-Harga SABUN: Rp5000
+Harga SABUN: Rp 5000
 Jumlah SABUN yang dibeli: 2
 
 Barang ke-2
 Nama barang: Shampoo
-Harga SHAMPOO: Rp12000
+Harga SHAMPOO: Rp 12000
 Jumlah SHAMPOO yang dibeli: 1
 
 ================================
@@ -99,3 +99,6 @@ Pembayaran             : Tunai
 ================================
         TERIMA KASIH
 ================================
+📝 Kesimpulan
+
+Lab Session 1 menggunakan studi kasus sistem kasir untuk menerapkan konsep dasar pemrograman Java. Program mencakup penggunaan class, object, constructor, konstanta, kondisional, looping, exception handling, character, string, serta ArrayList.
