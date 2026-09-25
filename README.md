@@ -10,14 +10,13 @@ Repositori ini berisi kodingan dan dokumentasi tugas praktikum mata kuliah **Pem
 * **Instansi**: Universitas Sebelas Maret
 
 ---
-
 ## 📚 Daftar Pertemuan & Tugas
 
-| Pertemuan | Topik / Tugas                                  |       Folder      |  Status |
-| :-------: | ---------------------------------------------- | :---------------: | :-----: |
-|     01    | Instalasi dan Eksplorasi Fitur Apache NetBeans |   `src/Laprak1`   | Selesai |
-|     03    | Program Pengelolaan Data Nilai Siswa           |   `src/Laprak3`   | Selesai |
-|     05    | Sistem Kasir Toko Nisa Rahmawati               | `src/LabSession1` | Selesai |
+| Pertemuan | Topik / Tugas | Folder | Status |
+|:---:|---|---|:---:|
+| 01 | Instalasi dan Eksplorasi Fitur Apache NetBeans | [Laprak 1](src/Laprak1) | Selesai |
+| 03 | Program Pengelolaan Data Nilai Siswa | [Laprak 3](src/Laprak3) | Selesai |
+| 05 | Sistem Kasir Toko Nisa Rahmawati | [Lab Session 1](src/LabSession1) | Selesai |
 
 ---
 
