@@ -1,4 +1,4 @@
-package Laprak2;
+package Laprak3;
 
 // Langkah 1: Buat Kelas Student
 class Student {

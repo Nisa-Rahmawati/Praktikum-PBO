@@ -1,4 +1,4 @@
-# Laprak 01: Instalasi dan Eksplorasi Fitur Apache NetBeans
+# Laprak 1: Instalasi dan Eksplorasi Fitur Apache NetBeans
 
 Folder ini berisi kode program uji coba (*sample code*) untuk **Laporan Praktikum 1** mengenai pengenalan IDE Apache NetBeans serta eksplorasi dasar fitur pemrograman berorientasi objek (OOP) di Java.
 ---

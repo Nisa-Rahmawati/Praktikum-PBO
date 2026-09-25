@@ -1,4 +1,4 @@
-# Laprak 02 - Program Pengelolaan Data Nilai Siswa
+# Laprak 03 - Program Pengelolaan Data Nilai Siswa
 
 ## 📌 Deskripsi
 Program Java sederhana untuk mengelola data nilai siswa dalam suatu kelas. Program ini memanfaatkan konsep Pemrograman Berorientasi Objek (Class & Object), struktur kontrol perulangan (`for loop`), kondisional (`if-else`), serta input/output interaktif menggunakan `Scanner`.

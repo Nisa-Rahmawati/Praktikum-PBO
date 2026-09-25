@@ -1,4 +1,4 @@
-package Laprak2;
+package Laprak3;
 
 import java.util.Scanner;
 
@@ -41,7 +41,8 @@ public class Main {
             } else {
                 status = "Tidak Lulus";
             }
-            System.out.println("--> Siswa bernama " + students[i].name + " dengan nilai " + students[i].score + " dinyatakan " + status);
+            System.out.println("--> Siswa bernama " + students[i].name + 
+                    " dengan nilai " + students[i].score + " dinyatakan " + status);
         }
 
         // Langkah 4: Hitung Rata-rata dan Jumlah Status Kelulusan
