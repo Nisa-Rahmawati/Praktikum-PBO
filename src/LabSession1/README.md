@@ -99,6 +99,8 @@ Pembayaran             : Tunai
 ================================
         TERIMA KASIH
 ================================
+
 📝 Kesimpulan
 
-Lab Session 1 menggunakan studi kasus sistem kasir untuk menerapkan konsep dasar pemrograman Java. Program mencakup penggunaan class, object, constructor, konstanta, kondisional, looping, exception handling, character, string, serta ArrayList.
+Lab Session 1 menggunakan studi kasus sistem kasir untuk menerapkan konsep dasar pemrograman Java. 
+Program mencakup penggunaan class, object, constructor, konstanta, kondisional, looping, exception handling, character, string, serta ArrayList.
