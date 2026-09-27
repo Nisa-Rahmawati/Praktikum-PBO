@@ -76,6 +76,7 @@ Laprak4
 ---
 ## 🧩 Konsep PBO yang Diterapkan
 **1. Class**
+   
    Program menggunakan beberapa class, yaitu Book, Member, LibraryService, dan MainApp.
    Class digunakan sebagai cetak biru untuk membuat object dan mengatur data serta perilaku yang dimiliki oleh masing-masing bagian program.
 
