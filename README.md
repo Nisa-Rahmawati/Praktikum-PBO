@@ -19,6 +19,7 @@ Repositori ini berisi kodingan dan dokumentasi tugas praktikum mata kuliah **Pem
 |     03    | Program Pengelolaan Data Nilai Siswa           |      [Laprak 3](src/Laprak3)     | Selesai |
 |     04    | Mini Library Management System                 |      [Laprak 4](src/Laprak4)     | Selesai |
 |     05    | Sistem Kasir Toko Nisa Rahmawati               | [Lab Session 1](src/LabSession1) | Selesai |
+|     06    | Program Kebun Binatang Mini (OOP)              | [Lab Session 2](src/LabSession2) | Selesai |
 
 ---
 
@@ -44,6 +45,15 @@ PraktikumPBO/
     │
     ├── LabSession1/
     │   ├── Barang.java
+    │   ├── Main.java
+    │   └── README.md
+    │
+    ├── LabSession2/
+    │   ├── BisaBergerak.java
+    │   ├── Burung.java
+    │   ├── Hewan.java
+    │   ├── Ikan.java
+    │   ├── Kucing.java
     │   ├── Main.java
     │   └── README.md
     │
@@ -83,6 +93,14 @@ Folder `Laprak4` berisi program **Mini Library Management System** yang menerapk
 * **`exception`** : berisi custom exception untuk menangani kondisi kesalahan pada proses peminjaman.
 * **`main`** : berisi class utama untuk menjalankan program.
 * **`README.md`** : berisi dokumentasi dan penjelasan mengenai program Laprak4.
+
+Folder `LabSession2` berisi program **Kebun Binatang Mini** yang menerapkan konsep Pemrograman Berorientasi Objek tingkat lanjut. Program terdiri dari beberapa class dan interface, yaitu:
+
+* **`Hewan`** : abstract class sebagai superclass yang memiliki abstract method `suara()`.
+* **`Kucing`, `Burung`, `Ikan`** : subclass yang mewarisi `Hewan` dan mengimplementasikan interface `BisaBergerak`.
+* **`BisaBergerak`** : interface yang berisi kontrak method `bergerak()`.
+* **`Main`** : class utama untuk membuat objek dan menjalankan program.
+* **`README.md`** : berisi dokumentasi dan penjelasan mengenai program Lab Session 2.
 
 ---
 
